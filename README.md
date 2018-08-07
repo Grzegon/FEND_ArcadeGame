@@ -1,6 +1,30 @@
-frontend-nanodegree-arcade-game
-===============================
+# Classic Arcade Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Table of Contents
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* [About Project](#about-project)
+* [Project dependencies](#project-dependencies)
+* [Instructions](#instructions)
+* [Version](#version)
+
+## About Project
+
+Classic Arcade Game is a part of Udacity FEND course. It is common frogger type game in which you have to cross street to get your character to the other site.
+
+## Project dependencies
+
+This project was written using HTML, Javascript and CSS. 
+* [Here You can read about Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Here how to start with HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* [Here about CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Instructions
+
+To start using this project, clone repository or download zip file from [gitHub](https://github.com/Grzegon/FEND_ArcadeGame) and then open `index.html` in your web browser.
+
+To play game press ENTER and start fun. Move your character using arrow keys. 
+
+## Version
+
+This is version `1.0` of the game.
+
